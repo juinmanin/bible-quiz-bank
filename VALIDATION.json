@@ -1,0 +1,20 @@
+{
+  "new_questions": 1056,
+  "total_questions": 2183,
+  "difficulties": {
+    "easy": 1457,
+    "hard": 330,
+    "medium": 396
+  },
+  "books": 66,
+  "mcheyne_days": 365,
+  "covered_chapters": 1189,
+  "arithmetic_in_new_bank": 0,
+  "legacy_numeric_policy": {
+    "limit": 20,
+    "retained": 20,
+    "removed": 79
+  },
+  "checks": "PASS: IDs, uniqueness, verse bounds, 66-book levels, 365-day mapping, partial chapters, leap day, filters, repeat exclusion, shuffle, legacy cap",
+  "limitations": "Semantic/theological review is not replaced by these structural checks."
+}
